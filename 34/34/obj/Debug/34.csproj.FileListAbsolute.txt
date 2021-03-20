@@ -1,0 +1,12 @@
+F:\34\34\bin\Debug\34.exe.config
+F:\34\34\bin\Debug\34.exe
+F:\34\34\bin\Debug\34.pdb
+F:\34\34\obj\Debug\34.csprojAssemblyReference.cache
+F:\34\34\obj\Debug\_34.Form1.resources
+F:\34\34\obj\Debug\_34.Properties.Resources.resources
+F:\34\34\obj\Debug\34.csproj.GenerateResource.cache
+F:\34\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+F:\34\34\obj\Debug\34.exe
+F:\34\34\obj\Debug\34.pdb
+F:\34\34\obj\Debug\_34.F_Image.resources
+F:\34\34\obj\Debug\_34.F_CreateNewBitmap.resources
